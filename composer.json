@@ -11,7 +11,8 @@
     ],
     "require": {
         "illuminate/database": "^8.0",
-        "vinkla/hashids": "^5.0"
+               "vinkla/hashids": "^5.0.2",
+
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
